@@ -15,7 +15,7 @@ Frameworks used:
 - Nextjs
 - React
 
-Projects I have worked on: [https://www.andaluz.casa/en/home](https://www.andaluz.casa/en/home/
+Projects I have worked on: https://www.andaluz.casa/en/home
 
 <!--
 **janne022/janne022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
