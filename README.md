@@ -1,4 +1,7 @@
-## Hi there 👋
+# Github Information
+
+## About Me
+Student studying .NET Fullstack. Mostly learning about ASP.NET with react frontend at the moment.
 
 ## Programmed with:
 - C#
@@ -9,13 +12,14 @@
 - Lua
 - PHP
 
-Frameworks used:
+## Frameworks used:
 - Flutter
 - Nextjs
 - React
 - .NET
 
-Projects I have worked on: https://www.andaluz.casa/en/home
+## Projects in the wild:
+- https://www.andaluz.casa/en/home
 
 <picture>
 <!-- github stats -->
