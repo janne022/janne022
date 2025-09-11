@@ -1,7 +1,7 @@
 # Github Information
 
 ## About Me
-Student studying .NET Fullstack. Mostly learning about ASP.NET with react frontend at the moment.
+Student studying .NET Fullstack. Mostly learning about ASP.NET with react frontend at the moment. Working on getting public and useful projects for this year.
 
 ## Programmed with:
 - C#
