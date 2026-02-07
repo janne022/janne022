@@ -36,26 +36,25 @@ Student studying .NET Fullstack. Mostly learning about ASP.NET with react fronte
 - https://www.andaluz.casa/en/home
 
 <picture>
-<!-- github stats -->
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=janne022&show_icons=true&theme=dracula"
+    srcset="./profile/stats-dark.svg"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=janne022&show_icons=true&theme=catppuccin_latte"
+    srcset="./profile/stats-light.svg"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=janne022&show_icons=true" />
+  <img src="./profile/stats-dark.svg" alt="Github Stats" />
 </picture>
+
 <picture>
-  <!-- languages used -->
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=janne022&show_icons=true&theme=dracula&layout=donut"
+    srcset="./profile/top-langs-dark.svg"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=janne022&show_icons=true&theme=catppuccin_latte&layout=donut"
+    srcset="./profile/top-langs-light.svg"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=janne022&show_icons=true&layout=donut" />
+  <img src="./profile/top-langs-dark.svg" alt="Top Languages" />
 </picture>
