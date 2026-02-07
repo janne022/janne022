@@ -20,7 +20,7 @@ jobs:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&theme=dracula&count_private=true
           path: profile/stats-dark.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PRIVATE_TOKEN }}
 
       - name: Generate stats card (Light - Catppuccin Latte)
         uses: readme-tools/github-readme-stats-action@v1
@@ -28,7 +28,7 @@ jobs:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&theme=catppuccin_latte&count_private=true
           path: profile/stats-light.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PRIVATE_TOKEN }}
 
       - name: Generate top languages card (Dark - Dracula)
         uses: readme-tools/github-readme-stats-action@v1
@@ -36,7 +36,7 @@ jobs:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=donut&show_icons=true&theme=dracula&count_private=true
           path: profile/top-langs-dark.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PRIVATE_TOKEN }}
 
       - name: Generate top languages card (Light - Catppuccin Latte)
         uses: readme-tools/github-readme-stats-action@v1
@@ -44,7 +44,7 @@ jobs:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=donut&show_icons=true&theme=catppuccin_latte&count_private=true
           path: profile/top-langs-light.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PRIVATE_TOKEN }}
       
       - name: Generate pin card
         uses: readme-tools/github-readme-stats-action@v1
@@ -52,7 +52,7 @@ jobs:
           card: pin
           options: username=readme-tools&repo=github-readme-stats&theme=dracula
           path: profile/pin-readme-tools-github-readme-stats.svg
-          token: ${{ secrets.PRIVATE_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
         run: |
