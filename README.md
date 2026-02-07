@@ -46,7 +46,3 @@ I am currently focusing on building scalable web applications using **ASP.NET Co
   <img src="./profile/stats-dark.svg#gh-dark-mode-only" alt="Github Stats" height="150"/>
   <img src="./profile/top-langs-dark.svg#gh-dark-mode-only" alt="Top Languages" height="150"/>
   </p>
-
-### Connect with me
-* [LinkedIn](https://www.linkedin.com/in/johannes-flodin-2676ba21a)
-* [Email](mailto:johannes.flodin+github@gmail.com)
