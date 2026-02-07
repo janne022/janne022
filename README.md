@@ -34,7 +34,6 @@ I am currently focusing on building scalable web applications using **ASP.NET Co
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/>
 </p>
 
----
 ## Projects
 ### [Andaluz.casa](https://www.andaluz.casa/en/home)
 **Description:** A holiday house rental website, features headless CMS support, plenty of information with markdown support, contact forms and a blog.
@@ -42,15 +41,11 @@ I am currently focusing on building scalable web applications using **ASP.NET Co
 * **My Role:** Sole Developer
 * [Link to Live Site](https://www.andaluz.casa/en/home)
 
----
-
 ## GitHub Stats
 <p align="left">
   <img src="./profile/stats-dark.svg#gh-dark-mode-only" alt="Github Stats" height="150"/>
   <img src="./profile/top-langs-dark.svg#gh-dark-mode-only" alt="Top Languages" height="150"/>
   </p>
-
----
 
 ### Connect with me
 * [LinkedIn](https://www.linkedin.com/in/johannes-flodin-2676ba21a)
