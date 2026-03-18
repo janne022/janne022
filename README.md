@@ -9,36 +9,7 @@ I am currently focusing on building scalable web applications using **ASP.NET Co
   </p>
 
 ## Tech Stack & Architecture
-```mermaid
-%%{init: {&#39;theme&#39;: &#39;dark&#39;}}%%
-mindmap
-  root((Tech Stack))
-    Frontend
-      React
-      Next.js
-      Blazor
-      TypeScript
-    Backend
-      C# &amp; .NET
-      Python
-      Java
-      Node.js
-    Architecture &amp; Data
-      Vertical Slice
-      Microservices
-      RabbitMQ
-      PostgreSQL &amp; MySQL
-      Redis
-    Cloud &amp; DevOps
-      Azure
-      .NET Aspire
-      Docker
-      Linux
-      Git
-    Embedded Systems
-      C++
-      ESP32
-```
+[![](https://mermaid.ink/img/pako:eNpNkttu4jAQhl_F8kqrVo2ixBDSZq8osCutSk9Be7HKjbGnxG1sR46DCIh3r6Fx6N18v2b-OdgHzDQHnGEpFJe0LhRCRmt7dbUCVqLcUvZxfX1SEfpttLKg-Bch9AqUWQ-PsLPhe-PxvqJ7bTytuhpyZkTdp987129Gsx_oJ5X1LxQ-LlZefO5sqZWnv3RLh1Zu4qHV1LBSWGC2NdC7zKkdcv-BsYLRCuWVYODVpWBGN2C2ThtGfqXrtbDLl2EA3diNgfzlofdddi6-LM9FXzqrdMt9b9g-1YPldO-m8nBaDk2bWlykuXZ3GK70IFS78_BH9LdayDVwDhzlXWNBDt6zmxsfLvLnEcEB3hjBcWZNCwGWYCQ9IT6c0gpsS5BQ4MyFnJqPAhfq6Gpqqv5rLX2Z0e2mxNkbrRpHbc2phbmgG0MvKe7lwMx0qyzO4rvo7IGzA945TKJwHJOExKMJGUXjNMCdU0kaju-SOL0lhEySCUmOAd6fu0ZhmkTJLUmjEUlcZTwJsLus1Wb59S_P3_P4CfHgxuM?type=png)](https://mermaid.live/edit#pako:eNpNkttu4jAQhl_F8kqrVo2ixBDSZq8osCutSk9Be7HKjbGnxG1sR46DCIh3r6Fx6N18v2b-OdgHzDQHnGEpFJe0LhRCRmt7dbUCVqLcUvZxfX1SEfpttLKg-Bch9AqUWQ-PsLPhe-PxvqJ7bTytuhpyZkTdp987129Gsx_oJ5X1LxQ-LlZefO5sqZWnv3RLh1Zu4qHV1LBSWGC2NdC7zKkdcv-BsYLRCuWVYODVpWBGN2C2ThtGfqXrtbDLl2EA3diNgfzlofdddi6-LM9FXzqrdMt9b9g-1YPldO-m8nBaDk2bWlykuXZ3GK70IFS78_BH9LdayDVwDhzlXWNBDt6zmxsfLvLnEcEB3hjBcWZNCwGWYCQ9IT6c0gpsS5BQ4MyFnJqPAhfq6Gpqqv5rLX2Z0e2mxNkbrRpHbc2phbmgG0MvKe7lwMx0qyzO4rvo7IGzA945TKJwHJOExKMJGUXjNMCdU0kaju-SOL0lhEySCUmOAd6fu0ZhmkTJLUmjEUlcZTwJsLus1Wb59S_P3_P4CfHgxuM)
 
 ## Projects
 
