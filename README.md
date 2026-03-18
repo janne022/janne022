@@ -35,11 +35,43 @@ I am currently focusing on building scalable web applications using **ASP.NET Co
 </p>
 
 ## Projects
-### [Andaluz.casa](https://www.andaluz.casa/en/home)
-**Description:** A holiday house rental website, features headless CMS support, plenty of information with markdown support, contact forms and a blog.
-* **Stack:** Next.js, Storyblok
-* **My Role:** Sole Developer
-* [Link to Live Site](https://www.andaluz.casa/en/home)
+
+<table bordercolor="#30363d">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏡 <a href="https://www.andaluz.casa/en/home">Andaluz.casa</a></h3>
+      <p>A holiday house rental website featuring headless CMS support, extensive information with markdown capabilities, contact forms, and a blog.</p>
+      <p><strong>Stack:</strong> Next.js, Storyblok<br>
+      <strong>My Role:</strong> Sole Developer</p>
+      <a href="https://www.andaluz.casa/en/home">Live Site</a>
+    </td>
+    
+    <td width="50%" valign="top">
+      <h3>🚀 MILTON</h3>
+      <p><em>[Brief 1-2 sentence description of what MILTON does, the problem it solves, or its main feature.]</em></p>
+      <p><strong>Stack:</strong> C#, ASP.NET Core, React <em>[Update as needed]</em><br>
+      <strong>My Role:</strong> Fullstack Developer <em>[Update as needed]</em></p>
+      <a href="#">Repository</a> | <a href="#">Live Site</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📊 Munilytics</h3>
+      <p><em>[Brief 1-2 sentence description of what Munilytics does, e.g., a data analytics dashboard for municipal data.]</em></p>
+      <p><strong>Stack:</strong> TypeScript, Next.js, Tailwind <em>[Update as needed]</em><br>
+      <strong>My Role:</strong> Frontend Developer <em>[Update as needed]</em></p>
+      <a href="#">Repository</a> | <a href="#">Live Site</a>
+    </td>
+
+    <td width="50%" valign="top">
+      <h3>🏦 Bank Appen</h3>
+      <p><em>[Brief 1-2 sentence description of what Bank Appen does, e.g., a secure banking application prototype.]</em></p>
+      <p><strong>Stack:</strong> Java, Spring Boot, MySQL <em>[Update as needed]</em><br>
+      <strong>My Role:</strong> Backend Developer <em>[Update as needed]</em></p>
+      <a href="#">Repository</a>
+    </td>
+  </tr>
+</table>
 
 ## GitHub Stats
 <p align="left">
