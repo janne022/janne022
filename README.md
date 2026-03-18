@@ -5,6 +5,10 @@ I am currently focusing on building scalable web applications using **ASP.NET Co
 
 <p align="left">
   <img src="./profile/jiji.webp" align="right" alt="Jiji the cat" height="150"/>
+  
+  <img src="./profile/stats-light.svg#gh-light-mode-only" alt="Github Stats" height="150"/>
+  <img src="./profile/top-langs-light.svg#gh-light-mode-only" alt="Top Languages" height="150"/>
+  
   <img src="./profile/stats-dark.svg#gh-dark-mode-only" alt="Github Stats" height="150"/>
   <img src="./profile/top-langs-dark.svg#gh-dark-mode-only" alt="Top Languages" height="150"/>
 </p>
