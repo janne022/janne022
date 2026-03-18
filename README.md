@@ -8,6 +8,8 @@ I am currently focusing on building scalable web applications using **ASP.NET Co
   <img src="./profile/top-langs-dark.svg#gh-dark-mode-only" alt="Top Languages" height="150"/>
   </p>
 
+  <img src="jiji.gif" width="150" align="right" alt="Jiji the cat">
+
 ## Tech Stack & Architecture
 
 **Frontend**
