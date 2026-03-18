@@ -45,7 +45,6 @@ I am currently focusing on building scalable web applications using **ASP.NET Co
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-333333?style=for-the-badge&logoColor=white)
-![Nvidia](https://img.shields.io/badge/NVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 ## Projects
