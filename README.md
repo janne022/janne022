@@ -9,8 +9,8 @@ I am currently focusing on building scalable web applications using **ASP.NET Co
   </p>
 
 ## Tech Stack & Architecture
-![Tech Stack](tech-stack-light.svg#gh-light-mode-only)
-![Tech Stack](tech-stack-dark.svg#gh-dark-mode-only)
+![Tech Stack](./profile/tech-stack-light.svg#gh-light-mode-only)
+![Tech Stack](./profile/tech-stack-dark.svg#gh-dark-mode-only)
 
 ## Projects
 
