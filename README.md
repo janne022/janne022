@@ -36,8 +36,6 @@ I am currently focusing on building scalable web applications using **ASP.NET Co
 
 ## Projects
 
-## Projects
-
 | | |
 | :--- | :--- |
 | **🏡 [Andaluz.casa](https://www.andaluz.casa/en/home)**<br><br>A holiday house rental website featuring headless CMS support, extensive information with markdown capabilities, contact forms, and a blog.<br><br>**Stack:** Next.js, Storyblok<br>**My Role:** Sole Developer<br><br>[Live Site](https://www.andaluz.casa/en/home) | **🚀 MILTON**<br><br>_[Brief 1-2 sentence description of what MILTON does, the problem it solves, or its main feature.]_<br><br>**Stack:** C#, ASP.NET Core, React<br>**My Role:** Fullstack Developer<br><br>[Repository](#) \| [Live Site](#) |
