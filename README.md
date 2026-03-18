@@ -36,42 +36,12 @@ I am currently focusing on building scalable web applications using **ASP.NET Co
 
 ## Projects
 
-<table bordercolor="#30363d">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏡 <a href="https://www.andaluz.casa/en/home">Andaluz.casa</a></h3>
-      <p>A holiday house rental website featuring headless CMS support, extensive information with markdown capabilities, contact forms, and a blog.</p>
-      <p><strong>Stack:</strong> Next.js, Storyblok<br>
-      <strong>My Role:</strong> Sole Developer</p>
-      <a href="https://www.andaluz.casa/en/home">Live Site</a>
-    </td>
-    
-    <td width="50%" valign="top">
-      <h3>🚀 MILTON</h3>
-      <p><em>[Brief 1-2 sentence description of what MILTON does, the problem it solves, or its main feature.]</em></p>
-      <p><strong>Stack:</strong> C#, ASP.NET Core, React <em>[Update as needed]</em><br>
-      <strong>My Role:</strong> Fullstack Developer <em>[Update as needed]</em></p>
-      <a href="#">Repository</a> | <a href="#">Live Site</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📊 Munilytics</h3>
-      <p><em>[Brief 1-2 sentence description of what Munilytics does, e.g., a data analytics dashboard for municipal data.]</em></p>
-      <p><strong>Stack:</strong> TypeScript, Next.js, Tailwind <em>[Update as needed]</em><br>
-      <strong>My Role:</strong> Frontend Developer <em>[Update as needed]</em></p>
-      <a href="#">Repository</a> | <a href="#">Live Site</a>
-    </td>
+## Projects
 
-    <td width="50%" valign="top">
-      <h3>🏦 Bank Appen</h3>
-      <p><em>[Brief 1-2 sentence description of what Bank Appen does, e.g., a secure banking application prototype.]</em></p>
-      <p><strong>Stack:</strong> Java, Spring Boot, MySQL <em>[Update as needed]</em><br>
-      <strong>My Role:</strong> Backend Developer <em>[Update as needed]</em></p>
-      <a href="#">Repository</a>
-    </td>
-  </tr>
-</table>
+| | |
+| :--- | :--- |
+| **🏡 [Andaluz.casa](https://www.andaluz.casa/en/home)**<br><br>A holiday house rental website featuring headless CMS support, extensive information with markdown capabilities, contact forms, and a blog.<br><br>**Stack:** Next.js, Storyblok<br>**My Role:** Sole Developer<br><br>[Live Site](https://www.andaluz.casa/en/home) | **🚀 MILTON**<br><br>_[Brief 1-2 sentence description of what MILTON does, the problem it solves, or its main feature.]_<br><br>**Stack:** C#, ASP.NET Core, React<br>**My Role:** Fullstack Developer<br><br>[Repository](#) \| [Live Site](#) |
+| **📊 Munilytics**<br><br>_[Brief 1-2 sentence description of what Munilytics does.]_<br><br>**Stack:** TypeScript, Next.js, Tailwind<br>**My Role:** Frontend Developer<br><br>[Repository](#) \| [Live Site](#) | **🏦 Bank Appen**<br><br>_[Brief 1-2 sentence description of what Bank Appen does.]_<br><br>**Stack:** Java, Spring Boot, MySQL<br>**My Role:** Backend Developer<br><br>[Repository](#) |
 
 ## GitHub Stats
 <p align="left">
