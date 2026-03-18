@@ -5,6 +5,7 @@ I am currently focusing on building scalable web applications using **ASP.NET Co
 
 ## Tech Stack & Architecture
 ```mermaid
+%%{init: {&#39;theme&#39;: &#39;dark&#39;}}%%
 mindmap
   root((Tech Stack))
     Frontend
