@@ -131,7 +131,7 @@
     </g>
   </g><g transform="translate(0, 32)">
     <g class="stagger" style="animation-delay: 600ms">
-      <circle cx="5" cy="6" r="5" fill="#178600" />
+      <circle cx="5" cy="6" r="5" fill="#7355dd" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         C# 7.09%
       </text>
@@ -178,7 +178,7 @@
           data-testid="lang-donut"
           size="7.09"
           d="M 84.31648627892756 70.1416525345694 A 56.66666666666667 56.66666666666667 0 0 0 67.42658323357264 88.62160837446393"
-          stroke="#178600"
+          stroke="#7355dd"
           fill="none"
           stroke-width="12">
         </path>
