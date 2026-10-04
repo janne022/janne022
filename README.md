@@ -50,10 +50,3 @@ I am currently focusing on building scalable web applications using **ASP.NET Co
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-333333?style=for-the-badge&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-
-## Projects
-
-| | |
-| :--- | :--- |
-| **🏡 [Andaluz.casa](https://www.andaluz.casa/en/home)**<br><br>A holiday house rental website featuring headless CMS support, extensive information with markdown capabilities, contact forms, and a blog.<br><br>**Stack:** Next.js, Storyblok<br>**My Role:** Sole Developer<br><br>[Live Site](https://www.andaluz.casa/en/home) | **🤖 MILTON**<br><br>An enterprise-grade AI compliance engine that automates the mapping of source code to requirements for regulated industries, serving as a unified architectural source of truth.<br><br>**Stack:** React, ASP.NET Core<br>**My Role:** Fullstack Developer & Founder<br><br> [Live Site](https://miltonsystems.com/) |
-| **📊 Munilytics**<br><br>A high-performance analytics dashboard that transforms complex municipal data into actionable insights for politicians, featuring vector-based peer comparison and OLAP cube architecture.<br><br>**Stack:** ASP.NET Core, React, PostgreSQL, Wolverine, FastEndpoints<br>**My Role:** Fullstack Developer<br><br>[Repository](https://github.com/SunberryBlossom/Munilytics) | **🏦 Bank Appen**<br><br>A terminal-based banking application prototype featuring a rich Text User Interface (TUI).<br><br>**Stack:** C#, .NET Console App<br>**My Role:** Developer<br><br>[Repository](https://github.com/janne022/bank-app) |
