@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Johannes Flodin's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 18, Total Commits  (last year) : 1157, Total PRs: 432, Total Issues: 307, Contributed to (last year): 7</desc>
+        <desc id="descId">Total Stars Earned: 18, Total Commits  (last year) : 1162, Total PRs: 432, Total Issues: 307, Contributed to (last year): 7</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 68.82586377529364;
+        stroke-dashoffset: 68.80254152651021;
       }
     }
   
