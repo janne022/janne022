@@ -1,8 +1,5 @@
 # Hi, I'm Johannes 🐈‍⬛
 
-### Student & .NET Fullstack Developer
-I am currently focusing on building scalable web applications using **ASP.NET Core** and **React**. My goal for this year is to launch public and useful projects together with other students.
-
 <p align="left">
   <img src="./profile/jiji.webp" align="right" alt="Jiji the cat" height="150"/>
   
